@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Neomaster.XVault.Domain/Neomaster.XVault.Domain.csproj" Id="37a20c7d-71b8-45af-b56f-e18093802065" />
+</Solution>

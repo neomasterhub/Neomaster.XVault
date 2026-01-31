@@ -1,6 +1,10 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
+    <File Path="readme.md" />
   </Folder>
+  <Project Path="Neomaster.XVault.Api/Neomaster.XVault.Api.csproj" Id="9f2648cf-893f-4a90-b14f-44a4bc9c871d" />
+  <Project Path="Neomaster.XVault.App/Neomaster.XVault.App.csproj" Id="7dcd6b17-2481-49f4-9926-4c4adfd279fe" />
   <Project Path="Neomaster.XVault.Domain/Neomaster.XVault.Domain.csproj" Id="37a20c7d-71b8-45af-b56f-e18093802065" />
+  <Project Path="Neomaster.XVault.Infra/Neomaster.XVault.Infra.csproj" Id="53bc6985-dbdf-4001-bb42-82156e967d4f" />
 </Solution>
